@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": "Olawale Mustapha",
+    "occupation": "Frontend Developer",
+    "description": "I love technology and always look forward to improving on it everyday",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Olawale! I am a tech enthusiast who is passionate about using my skills in improving the tech world... My skills include Html, Css, Javascript, ReactJS and several others...",
+    "contactmessage": "Let's create a new experience!",
+    "email": "walemust28@gmail.com",
+    "phone": "+234 8098401016",
+    "address": {
+      "street": "9 Mutairu, Soji-Oshodi",
+      "city": "Somolu, Lagos",
+      "state": "Lagos",
+      "zip": "10110"
+    },
+    "website": "",
+    "resumedownload": "olawaleresume.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/walemust",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/olawale-mustapha-b24147125",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/walemust/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/walemust",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Lagos",
+        "degree": "Bachelor's Degree, Geography & Planning",
+        "graduated": "February, 2019",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "FREELANCE PROJECTS",
+        "title": "Frontend Developer",
+        "years": "May 2019 - Present",
+        "description": "Creating real-life projects and also Cloning all the apps possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "40%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hulu Clone (Next JS)",
+        "category": "",
+        "image": "hulu.jpg",
+        "url": "http://hulu-upgraded.vercel.app/"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "http://fb-upgraded.vercel.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedln.jpg",
+        "url": "http://linkdeln-upgraded.vercel.app/"
+      }
+    ]
+  }
+}
