@@ -3,15 +3,15 @@ import OlawalesResume from "../cv/Olawales-Resume.pdf";
 
 const About = ({ data }) => {
   if (data) {
-    var name = data.name;
+    // var name = data.name;
     var profilepic = "images/" + data.image;
     var bio = data.bio;
-    var street = data.address.street;
-    var city = data.address.city;
-    var state = data.address.state;
-    var zip = data.address.zip;
-    var phone = data.phone;
-    var email = data.email;
+    // var street = data.address.street;
+    // var city = data.address.city;
+    // var state = data.address.state;
+    // var zip = data.address.zip;
+    // var phone = data.phone;
+    // var email = data.email;
   }
 
   return (
@@ -29,7 +29,7 @@ const About = ({ data }) => {
 
           <p>{bio}</p>
           <div className="row">
-            <div className="columns contact-details">
+            {/* <div className="columns contact-details">
               <h2>Contact Details</h2>
               <p className="address">
                 <span>{name}</span>
@@ -44,7 +44,7 @@ const About = ({ data }) => {
                 <br />
                 <span>{email}</span>
               </p>
-            </div>
+            </div> */}
             <div className="columns download">
               <p>
                 <a href={OlawalesResume} target="_blank" rel="noopener noreferrer" download className="button">

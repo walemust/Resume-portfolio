@@ -10,7 +10,7 @@
     "phone": "+234 8098401016",
     "address": {
       "street": "9 Mutairu, Soji-Oshodi",
-      "city": "Somolu",
+      "city": "Lagos",
       "state": "Lagos",
       "zip": "10110"
     },
@@ -65,19 +65,19 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "50%"
+        "className": "fa fa-react"
       },
       {
         "name": "Git",
-        "level": "50%"
+        "className": "fa fa-github"
       },
       {
         "name": "JavaScript",
-        "level": "40%"
+        "className": "fa fa-js-square"
       },
       {
         "name": "Web Development",
-        "level": "70%"
+        "className": "fa fa-globe"
       }
     ]
   },
